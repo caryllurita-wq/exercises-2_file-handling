@@ -1,1 +1,1 @@
-# exercises-2_file-handling
+# exercises2: file-handling
